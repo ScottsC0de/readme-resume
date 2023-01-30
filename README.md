@@ -2,47 +2,61 @@
 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="github mascot with daft punk helmet on" width="200"/>
 
-## 💡 Hello World
+## 💡 Links
+
+</br>
+
+> Portfolio: https://scottsc0de.github.io/portfolio-2/ 
+
+</br>
+
+> GitHub: https://github.com/scottsc0de/
+
+</br>
+
+```js
+## Hello
 
 Phone: 203-589-3259
 
-Email: scottgeorgecode@gmail.com
+Email: scott5902@gmail.com
 
-Portfolio: https://scottsc0de.github.io/portfolio-2/ 
+Location: Hamden, CT
+```
 
-GitHub: https://github.com/scottsc0de/
+```js
+## Tech
 
-I currently live in Hamden, Connecticut.
+- HTML // Markdown
+- CSS // Bootstrap
+- JavaScript // jQuery
+- node.js // express.js
+- SQL // mySQL // Sequelize
+- MVC // MongoDB
+- VSCode // GitHub
+- macOS (preferred) // Windows // Google Searching
+- High Speed Internet Remote Work Station
+```
 
-</br>
+```js
+## School
 
-## 💡 Skills
+UConn Coding Bootcamp 2023
+- Full Stack Web Development
 
-- HTML
-- CSS
-- JavaScript
-- jQuery
-- Bootstrap
-- node.js
-- express.js
-- SQL, mySQL, Sequelize
-- MongoDB
-- MVC
-- Markdown
-- GitHub
-- VSCode
-- macOS
-- Google Searching
+Southern Connecticut State University 2017
+- Kinesiology, Exercise Science, Psycology
 
-</br>
-   
-## 💡 Education
-
-*UConn Coding Bootcamp* (Sept 2022 - March 2023, currently enrolled) 
-- Learning the necessary skills to become a Full Stack Web Developer
-
-*Southern Connecticut State University* (Class of 2017)
-- B.A. in Interdisciplinary Studies
-
-*Notre Dame High School, West Haven* (Class of 2013)
+Notre Dame High School, West Haven 2013
 - General Studies
+```
+
+``` js
+## Skills
+
+Clock Management // Driving, Music, Code, Fitness, Personal
+Proof of Work // Portfolio // ReadMe Resume
+High Energy // Work Ethic
+Simple Code // Few Lines Few Files
+Likeable Guy
+```
