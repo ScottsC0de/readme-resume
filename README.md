@@ -6,11 +6,11 @@
 
 </br>
 
-> Portfolio: https://scottsc0de.github.io/portfolio-2/ 
+> Portfolio : https://scottsc0de.github.io/portfolio-2/ 
 
 </br>
 
-> GitHub: https://github.com/scottsc0de/
+> GitHub Repo : https://github.com/scottsc0de/
 
 </br>
 
@@ -33,8 +33,8 @@ Location: Hamden, CT
 - node.js // express.js
 - SQL // mySQL // Sequelize
 - MVC // MongoDB // Mongoose ODM
-- VSCode // GitHub
-- macOS (preferred) // Windows // Google Searching
+- VSCode // GitHub // Google
+- macOS (preferred) // Windows
 - High Speed Internet Remote Work Station
 ```
 
