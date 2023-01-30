@@ -54,6 +54,7 @@ Notre Dame High School, West Haven 2013
 ``` js
 ## Skills
 
+Reusing Code // GitHub Repo
 Clock Management // Work, Music, Code, Fitness, Personal
 Proof of Work // Portfolio Link Up Top
 Work Ethic // High Energy
