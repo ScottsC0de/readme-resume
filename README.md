@@ -54,9 +54,9 @@ Notre Dame High School, West Haven 2013
 ``` js
 ## Skills
 
-Clock Management // Driving, Music, Code, Fitness, Personal
-Proof of Work // Portfolio // ReadMe Resume
-High Energy // Work Ethic
-Simple Code // Few Lines Few Files
+Clock Management // Work, Music, Code, Fitness, Personal
+Proof of Work // Portfolio Link Up Top
+Work Ethic // High Energy
+Organization // Short Simple Code
 Likeable Guy
 ```
