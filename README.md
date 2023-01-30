@@ -32,7 +32,7 @@ Location: Hamden, CT
 - JavaScript // jQuery
 - node.js // express.js
 - SQL // mySQL // Sequelize
-- MVC // MongoDB
+- MVC // MongoDB // Mongoose ODM
 - VSCode // GitHub
 - macOS (preferred) // Windows // Google Searching
 - High Speed Internet Remote Work Station
@@ -45,7 +45,10 @@ UConn Coding Bootcamp 2023
 - Full Stack Web Development
 
 Southern Connecticut State University 2017
-- Kinesiology, Exercise Science, Psycology
+- Exercise Science, Psycology
+
+University of RI 2013
+- Kinesiology
 
 Notre Dame High School, West Haven 2013
 - General Studies
@@ -54,10 +57,10 @@ Notre Dame High School, West Haven 2013
 ``` js
 ## Skills
 
-Reusing Code // GitHub Repo
 Clock Management // Work, Music, Code, Fitness, Personal
 Proof of Work // Portfolio Link Up Top
-Work Ethic // High Energy
+Reusing Code // GitHub Repo
+Work Ethic // High Energy // Creativity // Efficiency
 Organization // Short Simple Code
 Likeable Guy
 ```
