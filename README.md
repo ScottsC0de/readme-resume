@@ -6,7 +6,7 @@
 
 </br>
 
-> Portfolio : https://scottsc0de.github.io/portfolio-2/ 
+> Portfolio : https://scottsc0de.github.io/react-portfolio/ 
 
 </br>
 
@@ -33,6 +33,7 @@ Location: Hamden, CT
 - node.js // express.js
 - SQL // mySQL // Sequelize
 - MVC // MongoDB // Mongoose ODM
+- React // WebPack
 - VSCode // GitHub // Google
 - macOS (preferred) // Windows
 - High Speed Internet Remote Work Station
