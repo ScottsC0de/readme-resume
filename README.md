@@ -42,7 +42,7 @@ Location: Hamden, CT
 ```js
 ## School
 
-UConn Coding Bootcamp 2023
+UConn Coding Bootcamp 2022-23
 - Full Stack Web Development
 
 Southern Connecticut State University 2017
