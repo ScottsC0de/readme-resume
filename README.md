@@ -48,10 +48,10 @@ UConn Coding Bootcamp 2023
 Southern Connecticut State University 2017
 - Exercise Science, Psycology
 
-University of RI 2013
+University of RI 2013-16
 - Kinesiology
 
-Notre Dame High School, West Haven 2013
+Notre Dame High School, West Haven 2009-13
 - General Studies
 ```
 
