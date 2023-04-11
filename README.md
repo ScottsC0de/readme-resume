@@ -6,7 +6,7 @@
 
 </br>
 
-> Portfolio : https://scottsc0de.github.io/react-portfolio/ 
+> Portfolio : https://scottsc0de.github.io/webdev-portfolio/ 
 
 </br>
 
